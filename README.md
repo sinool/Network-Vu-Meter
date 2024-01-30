@@ -23,7 +23,7 @@ connect your pc to esp wifi then open [VU_meter.exe](https://github.com/sinool/N
 
 <h1>NOTES</h1>
 
-although its a easy code  by it can be more intresting to have a android app or reacting to microphone ( i use *listen to this device* option in windows) and ...
+although it's an easy code but it can be more intresting to have an android app or reacting to microphone ( i use "*listen to this device*" option in windows) and ...
 
 <h1>SAMPLES</h1>
   
@@ -33,5 +33,5 @@ https://github.com/sinool/Network_VuMeter/assets/96464777/10fa48ae-716e-4bf2-873
 
 https://github.com/sinool/Network_VuMeter/assets/96464777/febb08eb-c149-4bca-85c1-1bcdb60968f7
 
-(after this videos motions get smoother by make level steps from 1/10 to 1/100 with a little change in codes)
+(after these videos motions get smoother by making level steps from 1/10 to 1/100 with a few changes in codes)
 
