@@ -3,29 +3,29 @@
 
 **Hi guys! :wave:**
 
-when i was working in a robotics and artificial intelligence competition called [RAINO CUP](https://rainocup.com/en/) , we had some building models that need some lighting for every layer and due to my passion for music and optical stuff , i decided to make a VU Meter for them by inspiring of other projects without to much information (that's why my code in like noobies :slightly_smiling_face:) . most of the vu meters in web use an extra circuit for microphone and leveling the sound but thanks to esp8266 we can do it with less components by using **UDP** protocol . now we can make everything musical if it has levels(one time i make a musical servo and its so easy to make)
-I think this project is too easy but it can come handy some times and make aweasome stuff.
+when I was working in a robotics and artificial intelligence competition called [RAINO CUP](https://rainocup.com/en/), we had some building models that needed some lighting for every layer and due to my passion for music and optical stuff, I decided to make a VU Meter for them by inspiring of other projects without too much information (that's why my code in like noobies :slightly_smiling_face:). most of the VU meters on the web use an extra circuit for the microphone and leveling the sound but thanks to esp8266 we can do it with fewer components by using **UDP** protocol. now we can make everything musical if it has levels(one time I made a musical servo and it's so easy to make) I think this project is too easy but it can come in handy sometimes and make awesome stuff.
 
-#REQUIRMENTS
+<h1>REQUIRMENTS</h1>
 
 ***1.ws2811/ws2812(or anything that have many states***
 
 ***2.esp8266***
 
-***SCHEMATIC***
+<h1>SCHEMATIC</h1>
 
 ![schematic](https://github.com/sinool/Network_VuMeter/assets/96464777/786c6fcb-c794-46e5-8dc4-94aca7a1ce52)
 
-***HOW TO USE ? ***
+<h1>HOW TO USE ?</h1> 
+
 Choose one of the codes in [ESP8266_CODE](https://github.com/sinool/Network_VuMeter/tree/main/ESP8266_CODE) and change it to your desired network credential then upload it.
 
 connect your pc to esp wifi then open [VU_meter.exe](https://github.com/sinool/Network_VuMeter/blob/main/VU_METER/bin/Debug/net8.0-windows/VU_METER.exe) and play your music
 
-***NOTES***
+<h1>NOTES</h1>
 
 although its a easy code  by it can be more intresting to have a android app or reacting to microphone ( i use *listen to this device* option in windows) and ...
 
-***SAMPLES***
+<h1>SAMPLES</h1>
   
 https://github.com/sinool/Network_VuMeter/assets/96464777/72c34cf7-44a7-420b-acbf-73e2a39dfc43
 
